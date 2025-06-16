@@ -244,9 +244,22 @@ def test_success_information():
     assert "checkout-step-two" in driver.current_url
     finish_button(driver).click()
     time.sleep(2)
+    menu_button = WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.ID, "react-burger-menu-btn"))
+    )
+    menu_button.click()
+    logger.info("Menu opened")
 
+    logout_link = WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.ID, "logout_sidebar_link"))
+    )
+    logout_link.click()
+    logger.info("Logout clicked")
 
-
+    # Verify redirection
+    assert "saucedemo.com" in driver.current_url and "login" in driver.page_source.lower()
+    logger.info("Logout redirect test passed")
+    driver.quit()
 
 
 

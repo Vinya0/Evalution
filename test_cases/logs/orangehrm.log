@@ -97,3 +97,95 @@
 2025-06-16 14:59:11,892 - INFO - All blank fields
 2025-06-16 14:59:15,104 - INFO - Last name empty
 2025-06-16 14:59:18,456 - INFO - Filling information
+2025-06-16 15:01:16,116 - INFO - Launching Chrome browser
+2025-06-16 15:01:17,405 - INFO - Navigating to saucedemo.com
+2025-06-16 15:01:17,827 - INFO - Entering login credentials
+2025-06-16 15:01:18,107 - INFO - Login test passed 
+2025-06-16 15:01:18,108 - INFO - Clicking add to cart
+2025-06-16 15:01:18,171 - INFO - Add to cart test passed 
+2025-06-16 15:01:18,229 - INFO - Add to cart test passed 
+2025-06-16 15:01:18,230 - INFO - Removing product
+2025-06-16 15:01:18,377 - INFO - Removed the product
+2025-06-16 15:01:18,378 - INFO - Clicking Checkout button
+2025-06-16 15:01:18,449 - INFO - Checkout page opened successfully
+2025-06-16 15:01:18,450 - INFO - All blank fields
+2025-06-16 15:01:21,667 - INFO - Last name empty
+2025-06-16 15:01:25,069 - INFO - Filling information
+2025-06-16 15:02:47,013 - INFO - Launching Chrome browser
+2025-06-16 15:02:47,808 - INFO - Navigating to saucedemo.com
+2025-06-16 15:02:48,220 - INFO - Entering login credentials
+2025-06-16 15:02:48,507 - INFO - Login test passed 
+2025-06-16 15:02:48,509 - INFO - Clicking add to cart
+2025-06-16 15:02:48,584 - INFO - Add to cart test passed 
+2025-06-16 15:02:48,644 - INFO - Add to cart test passed 
+2025-06-16 15:02:48,645 - INFO - Removing product
+2025-06-16 15:02:48,780 - INFO - Removed the product
+2025-06-16 15:02:48,781 - INFO - Clicking Checkout button
+2025-06-16 15:02:48,851 - INFO - Checkout page opened successfully
+2025-06-16 15:02:48,852 - INFO - All blank fields
+2025-06-16 15:02:52,046 - INFO - Last name empty
+2025-06-16 15:02:55,395 - INFO - Filling information
+2025-06-16 16:48:55,383 - INFO - Launching Chrome browser
+2025-06-16 16:48:56,676 - INFO - Navigating to saucedemo.com
+2025-06-16 16:48:57,232 - INFO - Entering login credentials
+2025-06-16 16:48:57,820 - INFO - Login test passed 
+2025-06-16 16:48:57,827 - INFO - Clicking add to cart
+2025-06-16 16:48:57,976 - INFO - Add to cart test passed 
+2025-06-16 16:48:58,103 - INFO - Add to cart test passed 
+2025-06-16 16:48:58,107 - INFO - Removing product
+2025-06-16 16:49:08,472 - INFO - Clicking Checkout button
+2025-06-16 16:49:11,964 - INFO - Launching Chrome browser
+2025-06-16 16:49:12,753 - INFO - Navigating to saucedemo.com
+2025-06-16 16:49:13,214 - INFO - Entering login credentials
+2025-06-16 16:49:13,496 - INFO - Login test passed 
+2025-06-16 16:49:13,497 - INFO - Clicking add to cart
+2025-06-16 16:49:13,561 - INFO - Add to cart test passed 
+2025-06-16 16:49:13,626 - INFO - Add to cart test passed 
+2025-06-16 16:49:13,627 - INFO - Removing product
+2025-06-16 16:49:13,748 - INFO - Removed the product
+2025-06-16 16:49:13,749 - INFO - Clicking Checkout button
+2025-06-16 16:49:24,054 - INFO - All blank fields
+2025-06-16 16:49:34,333 - INFO - Filling information
+2025-06-16 16:49:41,768 - INFO - Launching Chrome browser
+2025-06-16 16:49:42,554 - INFO - Navigating to saucedemo.com
+2025-06-16 16:49:42,982 - INFO - Entering login credentials
+2025-06-16 16:49:43,271 - INFO - Login test passed 
+2025-06-16 16:49:43,273 - INFO - Clicking add to cart
+2025-06-16 16:49:43,338 - INFO - Add to cart test passed 
+2025-06-16 16:49:43,402 - INFO - Add to cart test passed 
+2025-06-16 16:49:43,403 - INFO - Removing product
+2025-06-16 16:49:43,523 - INFO - Removed the product
+2025-06-16 16:49:43,524 - INFO - Clicking Checkout button
+2025-06-16 16:49:47,185 - INFO - Checkout page opened successfully
+2025-06-16 16:49:47,186 - INFO - All blank fields
+2025-06-16 16:49:50,407 - INFO - Last name empty
+2025-06-16 16:49:53,758 - INFO - Filling information
+2025-06-16 16:50:00,194 - INFO - Launching Chrome browser
+2025-06-16 16:50:00,988 - INFO - Navigating to saucedemo.com
+2025-06-16 16:50:01,425 - INFO - Entering login credentials
+2025-06-16 16:50:01,703 - INFO - Login test passed 
+2025-06-16 16:50:01,704 - INFO - Clicking add to cart
+2025-06-16 16:50:01,768 - INFO - Add to cart test passed 
+2025-06-16 16:50:01,831 - INFO - Add to cart test passed 
+2025-06-16 16:50:01,832 - INFO - Removing product
+2025-06-16 16:50:01,953 - INFO - Removed the product
+2025-06-16 16:50:01,954 - INFO - Clicking Checkout button
+2025-06-16 16:50:12,255 - INFO - All blank fields
+2025-06-16 16:50:22,532 - INFO - Filling information
+2025-06-16 16:51:39,506 - INFO - Launching Chrome browser
+2025-06-16 16:51:40,366 - INFO - Navigating to saucedemo.com
+2025-06-16 16:51:41,181 - INFO - Entering login credentials
+2025-06-16 16:51:41,454 - INFO - Login test passed 
+2025-06-16 16:51:41,455 - INFO - Clicking add to cart
+2025-06-16 16:51:41,518 - INFO - Add to cart test passed 
+2025-06-16 16:51:41,579 - INFO - Add to cart test passed 
+2025-06-16 16:51:41,580 - INFO - Removing product
+2025-06-16 16:51:41,704 - INFO - Removed the product
+2025-06-16 16:51:41,705 - INFO - Clicking Checkout button
+2025-06-16 16:51:46,401 - INFO - Checkout page opened successfully
+2025-06-16 16:51:46,402 - INFO - All blank fields
+2025-06-16 16:51:49,620 - INFO - Last name empty
+2025-06-16 16:51:52,968 - INFO - Filling information
+2025-06-16 16:51:55,409 - INFO - Menu opened
+2025-06-16 16:51:55,989 - INFO - Logout clicked
+2025-06-16 16:51:55,997 - INFO - Logout redirect test passed
