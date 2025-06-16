@@ -171,6 +171,7 @@ def test_add_to_cart():
     logger.info("Add to cart test passed ")
     add_to_cart_button_light(driver).click()
     logger.info("Add to cart test passed ")
+    logger.info("Removing product")
 
 def test_remove():
     global driver
