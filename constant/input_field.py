@@ -1,0 +1,5 @@
+USERNAME = "standard_user"
+PASSWORD = "secret_sauce"
+FIRST_NAME ="Vinya"
+LAST_NAME = "V"
+ZIP_CODE = "35345"
