@@ -5,17 +5,17 @@
 2025-06-16 11:32:14,909 - INFO - LoginTest - Navigating to saucedemo.com
 2025-06-16 11:32:15,386 - INFO - LoginTest - Entering login credentials
 2025-06-16 11:32:15,602 - INFO - LoginTest - Verifying login success
-2025-06-16 11:32:15,607 - INFO - LoginTest - Login test passed ✅
+2025-06-16 11:32:15,607 - INFO - LoginTest - Login test passed
 2025-06-16 11:32:15,607 - INFO - LoginTest - Closing the browser
 2025-06-16 11:33:38,696 - INFO - LoginTest - Launching Chrome browser
 2025-06-16 11:33:39,586 - INFO - LoginTest - Navigating to saucedemo.com
 2025-06-16 11:33:40,005 - INFO - LoginTest - Entering login credentials
 2025-06-16 11:33:40,227 - INFO - LoginTest - Verifying login success
-2025-06-16 11:33:40,235 - INFO - LoginTest - Login test passed ✅
+2025-06-16 11:33:40,235 - INFO - LoginTest - Login test passed
 2025-06-16 11:33:40,235 - INFO - LoginTest - Closing the browser
 2025-06-16 11:36:23,138 - INFO - LoginTest - Launching Chrome browser
 2025-06-16 11:36:23,934 - INFO - LoginTest - Navigating to saucedemo.com
 2025-06-16 11:36:24,416 - INFO - LoginTest - Entering login credentials
 2025-06-16 11:36:24,637 - INFO - LoginTest - Verifying login success
-2025-06-16 11:36:24,642 - INFO - LoginTest - Login test passed ✅
+2025-06-16 11:36:24,642 - INFO - LoginTest - Login test passed
 2025-06-16 11:36:24,642 - INFO - LoginTest - Closing the browser
