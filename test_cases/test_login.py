@@ -19,7 +19,7 @@ os.makedirs(SCREENSHOT_DIR, exist_ok=True)
 os.makedirs("logs", exist_ok=True)
 
 # Logging setup
-logger = logging.getLogger("orangehrm_logger")
+logger = logging.getLogger("saucedemo_logger")
 logger.setLevel(logging.INFO)
 
 # Clear old handlers to ensure logs work every time
