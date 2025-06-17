@@ -26,7 +26,7 @@ logger.setLevel(logging.INFO)
 if logger.hasHandlers():
     logger.handlers.clear()
 
-handler = logging.FileHandler("logs/orangehrm.log", mode='a')  # use 'w' to overwrite
+handler = logging.FileHandler("logs/saucedemo.log", mode='a')  # use 'w' to overwrite
 formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 handler.setFormatter(formatter)
 logger.addHandler(handler)
